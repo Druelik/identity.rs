@@ -5,6 +5,7 @@ on:
     branches:
       - dev
       - main
+      - feat/test-coverage
     paths:
       - '**.rs'
       - '**.toml'
