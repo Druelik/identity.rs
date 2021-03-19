@@ -17,6 +17,3 @@ book
 index.html
 
 !/bindings/wasm/static/index.html
-
-# Coverage data
-coverage/
