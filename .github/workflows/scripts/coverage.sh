@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-
+set -e
 # Remove stale coverage report
-rm -r coverage
+rm -rf coverage
 mkdir coverage
 
 # Run tests with profiling instrumentation
